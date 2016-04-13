@@ -13,6 +13,7 @@
     "rukus": "^1.2.0"
   },
   "devDependencies": {
+    "pre-commit": "^1.1.2",
     "standard": "^6.0.7"
   }
 }
